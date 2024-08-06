@@ -3,7 +3,7 @@ build:
   version: 1.4
 
 profile:
-  name: "production"
+  name: "prod"
 
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
